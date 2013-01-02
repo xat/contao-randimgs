@@ -9,5 +9,5 @@ There is HOOK which enables you to influence the folder in which this modul shou
 Please notice that this modul is currently limited to only one lookup folder and does only work with Contao 2.11.x.
 
 ## License
-Copyright (c) 2012 Simon Kusterer
+Copyright (c) 2013 Simon Kusterer
 Licensed under the LGPL license.
